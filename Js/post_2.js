@@ -1,4 +1,4 @@
-const Url = "https://vilvon.g2.rtacademy.net/copypast/post_2.json";
+const Url = "./post_2.json";
 let countClic = 0;
 
 class User {
