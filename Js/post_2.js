@@ -1,4 +1,4 @@
-const Url = "./post_2.json";
+const Url = "./Js/post_2.json";
 let countClic = 0;
 
 class User {

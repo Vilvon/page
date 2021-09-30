@@ -21,7 +21,7 @@
             "alias" : "nature"
         }],
         "cover" : {
-            "url": "https://vilvon.g2.rtacademy.net/copypast/content/pexels-photo-1540906.jpeg",
+            "url": "./content/pexels-photo-1540906.jpeg",
             "alt" : "nixel-pixel"
         }
     },
@@ -47,7 +47,7 @@
             "alias" : "nature"
         }],
         "cover" : {
-            "url": "https://vilvon.g2.rtacademy.net/copypast/content/post6.jpg",
+            "url": "./content/post6.jpg",
             "alt" : "nixel-pixel"
         }
     },
@@ -73,7 +73,7 @@
             "alias" : "nature"
         }],
         "cover" : {
-            "url": "https://vilvon.g2.rtacademy.net/copypast/content/banner-2-min.jpg",
+            "url": "./content/banner-2-min.jpg",
             "alt" : "nixel-pixel"
         }
     },
@@ -99,7 +99,7 @@
             "alias" : "nature"
         }],
         "cover" : {
-            "url": "https://vilvon.g2.rtacademy.net/copypast/content/pexels-photo-1340502_d1659a4af1e231fa4d55ae625b9c27f0.jpg",
+            "url": "./content/pexels-photo-1340502_d1659a4af1e231fa4d55ae625b9c27f0.jpg",
             "alt" : "nixel-pixel"
         }
     },
@@ -125,7 +125,7 @@
             "alias" : "nature"
         }],
         "cover" : {
-            "url": "https://vilvon.g2.rtacademy.net/copypast/content/54654734-min.jpg",
+            "url": "./content/54654734-min.jpg",
             "alt" : "nixel-pixel"
         }
     },
@@ -151,7 +151,7 @@
             "alias" : "nature"
         }],
         "cover" : {
-            "url": "https://vilvon.g2.rtacademy.net/copypast/content/elijah-o-donnell-689978-unsplash-min.jpg",
+            "url": "./content/elijah-o-donnell-689978-unsplash-min.jpg",
             "alt" : "nixel-pixel"
         }
     },
@@ -177,7 +177,7 @@
             "alias" : "nature"
         }],
         "cover" : {
-            "url": "https://vilvon.g2.rtacademy.net/copypast/content/5-min-1.jpg",
+            "url": "./content/5-min-1.jpg",
             "alt" : "nixel-pixel"
         }
     },
@@ -203,7 +203,7 @@
             "alias" : "nature"
         }],
         "cover" : {
-            "url": "https://vilvon.g2.rtacademy.net/copypast/content/post-3-gallery-min.jpg",
+            "url": "./content/post-3-gallery-min.jpg",
             "alt" : "nixel-pixel"
         }
     },
@@ -229,7 +229,7 @@
             "alias" : "nature"
         }],
         "cover" : {
-            "url": "https://vilvon.g2.rtacademy.net/copypast/content/e343-min.jpg",
+            "url": "./content/e343-min.jpg",
             "alt" : "nixel-pixel"
         }
     },
@@ -255,7 +255,7 @@
             "alias" : "nature"
         }],
         "cover" : {
-            "url": "https://vilvon.g2.rtacademy.net/copypast/content/657657-min.jpg",
+            "url": "./content/657657-min.jpg",
             "alt" : "nixel-pixel"
         }
     }
